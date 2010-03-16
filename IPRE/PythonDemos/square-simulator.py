@@ -1,0 +1,7 @@
+forward(1.0, 1.0)
+turnRight(1.0, 0.35)
+forward(1.0, 1.0)
+turnRight(1.0, 0.35)
+forward(1.0, 1.0)
+turnRight(1.0, 0.35)
+forward(1.0, 1.0)
